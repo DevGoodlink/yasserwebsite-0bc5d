@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Zero Trust architecture
 subtitle: lorem-ipsum
 date: '2021-09-14'
 excerpt: lorem-ipsum
