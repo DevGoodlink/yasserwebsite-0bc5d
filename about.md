@@ -1,8 +1,8 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Yasser Sbai, développeur intégrateur chez ilex international, travail
+  particulièrement avec java autour de l'IAM
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
