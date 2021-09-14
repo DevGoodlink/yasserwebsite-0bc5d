@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Bienvenue sur mon blog
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Dans ce blog je vais traiter de quelques sujets techniques pour partager
+      avec vous mes découvertes et comment j'ai résolu des problèmes que j'ai
+      rencontré lors de mon travail de développeur
     actions:
       - label: Learn More
         url: /features
