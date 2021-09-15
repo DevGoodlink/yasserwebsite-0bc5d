@@ -2,7 +2,7 @@
 title: Zero Trust architecture
 subtitle: Définition et principes de la ZTA
 date: '2021-09-14'
-excerpt: lorem-ipsum
+excerpt: Principes et définitions
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
