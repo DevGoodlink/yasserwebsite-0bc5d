@@ -1,5 +1,5 @@
 ---
-title: Zero Trust architecture
+title: Zero Trust Architecture
 subtitle: Définition et principes de la ZTA
 date: '2021-09-14'
 excerpt: Principes et définition
