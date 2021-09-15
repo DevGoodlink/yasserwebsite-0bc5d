@@ -7,9 +7,9 @@ sections:
     image_alt: App preview
     title: Bienvenue sur mon blog
     content: >
-      Dans ce blog je vais traiter de quelques sujets techniques pour partager
-      avec vous mes découvertes et comment j'ai résolu des problèmes que j'ai
-      rencontré lors de mon travail de développeur
+      Dans ce blog je vais traiter de sujets techniques pour partager avec vous
+      mes découvertes et comment j'ai résolu des problèmes que j'ai rencontré
+      lors de mon travail de développeur
     actions:
       - label: Learn More
         url: /features
